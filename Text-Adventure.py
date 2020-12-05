@@ -1,5 +1,11 @@
-print("It’s dark earlier than you expected. You’re walking home, and \nare nearly there until, suddenly, you hear footsteps behind you.")
-print("You glance back, but you see no one there. The footsteps draw closer. \nWhat do you do?")
+print("It's dark.")
+print("That's all you know, and all you see. 'It wasn't supposed to be")
+print("dark this early,' you whisper as you breath softly fogs the air in")
+print("front of you. Still, the streetlights are shining faintly near your")
+print("house, and you're almost home\nuntil")
+print("you hear footsteps behind you. You glance back and there's no")
+print("one there that you can see.")
+print("\nYou have three options that you are considering:")
 walk = "a) Walk away quickly. \n"
 run = "b) Start running home. \n"
 still = "c) Stay still and wait for whoever it is to catch up to you. \n"
@@ -9,6 +15,12 @@ if answer_1 == "a":
     print("The footsteps quicken with yours. Your walk turns to jogging, ")
     print("which quickly becomes running as fast as you possibly can. You")
     print("see a dark alley nearby and duck in to escape. ")
+
+
+
+   # print("Sorry, I don't recognize that response.")
+    #print(answer_1)
+
 
     #nearby alley
     #duck in to escape
